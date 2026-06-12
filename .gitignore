@@ -1,0 +1,13 @@
+# OS / editor junk
+.DS_Store
+*.log
+
+# Vercel
+.vercel
+
+# stray release binaries (these live on R2, never in the repo)
+*.dmg
+*.exe
+*.AppImage
+*.deb
+*.zip
